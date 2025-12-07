@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamar</h1>
 <h3 align="center">I am a software engineer.</h3>
 
-- 🔭 I am currently working on **a final project**
+- 🔭 I am currently completing **a practicum at iAngels**
 
 - 🌱 I'm currently learning **how to build fullstack applications using React and .NET Core**
 
